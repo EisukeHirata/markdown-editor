@@ -3,3 +3,5 @@
  
 # Gatsby files
  .cache/
+
+node_modules/
